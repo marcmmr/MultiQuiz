@@ -5,7 +5,7 @@
     android:layout_width="wrap_content"
     android:layout_height="match_parent"
     tools:context="edu.upc.eseiaat.pma.multiquiz.QuizActivity">
-
+    <!-- Es COMENTA AIXI-->
     <TextView
         android:id="@+id/label_question"
         android:layout_width="wrap_content"

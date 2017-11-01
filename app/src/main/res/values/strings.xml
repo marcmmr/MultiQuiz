@@ -8,9 +8,9 @@
     <string name="finish">Finish</string>
     <string name="prev">Previous</string>
 
-    <array name="all_questions">
+    <array name="all_questions"> <!-- creem array de preguntes-->
         <item>What is the capital of Catalonia?;Girona;Lleida;*Barcelona;Badalona</item>
-        <item>What is the capital of Valles Occidental?  ;Manresa;*Sabadell;Sentmenat;Sant Cugat</item>
+        <item>What is the capital of Valles Occidental?;Manresa;*Sabadell;Sentmenat;Sant Cugat</item>
     </array>
 
 
